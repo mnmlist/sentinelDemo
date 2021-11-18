@@ -25,3 +25,11 @@ Sentinel Dashboard统一管理配置（有良好的UI界面，为什么不能统
 
 具体可参考：apollo:https://kelovp.tech/nostring/blog/javaee/1508/   
 nacos: https://www.cnblogs.com/jian0110/p/14139044.html
+
+
+## 原理分析
+- 官方原理概述
+https://github.com/alibaba/Sentinel/wiki/Sentinel%E5%B7%A5%E4%BD%9C%E4%B8%BB%E6%B5%81%E7%A8%8B
+- 核心类解析
+https://github.com/alibaba/Sentinel/wiki/Sentinel-%E6%A0%B8%E5%BF%83%E7%B1%BB%E8%A7%A3%E6%9E%90
+https://zhuanlan.zhihu.com/p/64786381
